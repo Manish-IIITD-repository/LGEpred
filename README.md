@@ -12,6 +12,8 @@ Raghava, G. P. S., & Han, J. H. (2005).
 **Correlation and prediction of gene expression level from amino acid and dipeptide composition of its protein.** *BMC Bioinformatics*, 6, 59. 
 [https://doi.org/10.1186/1471-2105-6-59](https://doi.org/10.1186/1471-2105-6-59)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20151704)
+
 ---
 
 ## About the Platform
