@@ -1,8 +1,8 @@
-# GEPred: Prediction of Gene Expression Levels from Protein Sequence
+# LGEPred: Prediction of Gene Expression Levels from Protein Sequence
 
-Welcome to the official documentation for **GEPred**, a computational method developed to predict the expression levels of genes based on the amino acid and dipeptide composition of their encoded proteins. While traditional microarray analysis focuses on mRNA levels, GEPred provides a novel approach to understanding the relationship between a protein's primary sequence and the abundance of its corresponding gene's expression.
+Welcome to the official documentation for **LGEPred**, a computational method developed to predict the expression levels of genes based on the amino acid and dipeptide composition of their encoded proteins. While traditional microarray analysis focuses on mRNA levels, GEPred provides a novel approach to understanding the relationship between a protein's primary sequence and the abundance of its corresponding gene's expression.
 
-**Web Server:** [http://www.imtech.res.in/raghava/gepred/](http://www.imtech.res.in/raghava/gepred/)
+**Web Server:** [http://www.imtech.res.in/raghava/gepred/](http://www.imtech.res.in/raghava/gepred/)(https://webs.iiitd.edu.in/raghava/lgepred)
 
 ---
 
